@@ -97,3 +97,31 @@ vision and do not want to be mired in technical debt.
 - You don't already have a pile of technical debt.
 - You need to complete large-scale development efforts.
 - You have a choice.
+
+## Recognizing PBDM
+
+PBDM is a widely-used methodology, but many teams come to it organically and
+may not know they're practicing it -- they may not have even heard of PBDM!
+There are several signs that indicate a team is following PBDM:
+
+- __Fear__ -- The team has a culture of fear and mistrust.  You frequently hear
+  statements like "we're all going to be fired" or "we're going out of
+  business" even when it is clear that such risks are non-existent.
+- __Drama__ -- The team is working on the most important thing in the world.
+  This fact sets the stage for high drama.  If a team has frequent heated
+  arguments and fractured interpersonal relationships, there's a good chance
+  it's using PBDM.
+- __Bottom-Heavy__ -- As mentioned above, it is difficult to attract and retain
+  senior engineers when practicing PBDM, so such a team will have an unusually
+  low average in terms of years of experience.  This weighting is not caused by
+  ageism -- senior engineers just know better.  Senior engineers that do remain
+  are likely to be valued more as "swamp guides" than architects.
+- __Bad Manners__ -- When you are saving the world, politeness, human decency,
+  and even personal hygiene take a back seat.
+- __Booze__ -- Many organizations utilize boozy team outings to foster
+  camaraderie.  A team using PBDM needs booze to survive.  Booze gives rest to
+  a brain intensely focused on saving the world; it salves the interpersonal
+  wounds caused by infighting and high drama.  A team following PBDM is a
+  like a superhero sitcom: our heroes save the world each episode only to start
+  fresh next time; booze is the balm that allows the team to forget that
+  the story is the same each week.
