@@ -81,7 +81,7 @@ vision and do not want to be mired in technical debt.
 
 - Management cannot make up their minds, and/or have extremely short attention
   spans.
-- Management frequently espouses the logic of "something must be done,
+- Management frequently espouses the action fallacy: "something must be done,
   this is something, therefore we must do it".
 - You are in technical bankruptcy: the team has more debt than can ever be
   repaid; panic is the correct response.
