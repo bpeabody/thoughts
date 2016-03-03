@@ -55,8 +55,8 @@ up to management.
 Management may initiate PBDM by creating synthetic panic to motivate engineers.
 Over time, however, following PBDM will sow the seeds for genuine panic: the
 process is self-reinforcing.  By focusing on only the most immediate concerns
-and piling up technical debt through poor quality, PBDM sows the seeds for
-future crisis.
+and piling up technical debt through poor quality, PBDM ensures that there will
+be future crisis.
 
 ### Creates Panickers
 
