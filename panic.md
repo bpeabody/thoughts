@@ -39,8 +39,8 @@ Let there be no doubt: a PBDM team will get things done.
 Because of their extreme haste, the work done by a PBDM team is usually of low
 quality and extremely unreliable; pausing or even slowing to "do things right"
 is not acceptable.  This concern is not fatal: with the proper training and
-discipline it is possible for a PBDM to turn out high-quality code in the midst
-of constant panic.
+discipline it is possible for a PBDM team to turn out high-quality code in the
+midst of constant panic.
 
 ### Discourages Innovation
 
