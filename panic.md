@@ -68,7 +68,7 @@ state of being.  Over time, some of these developers are promoted into
 management positions.  Eventually, not only does the organization have a steady
 stream of real panics to which it must respond -- the leaders of the
 organization are themselves conditioned to believe that panic is a normal,
-productive state of being.
+productive state of being. See [the five monkeys experiment](http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/).
 
 ## Retention
 
